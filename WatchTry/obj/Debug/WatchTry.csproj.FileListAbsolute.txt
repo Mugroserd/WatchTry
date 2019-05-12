@@ -1,0 +1,9 @@
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\bin\Debug\WatchTry.exe.config
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\bin\Debug\WatchTry.exe
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\bin\Debug\WatchTry.pdb
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\obj\Debug\WatchTry.csprojResolveAssemblyReference.cache
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\obj\Debug\WatchTry.Form1.resources
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\obj\Debug\WatchTry.Properties.Resources.resources
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\obj\Debug\WatchTry.csproj.GenerateResource.Cache
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\obj\Debug\WatchTry.exe
+c:\users\mugroserd\documents\visual studio 2017\Projects\WatchTry\WatchTry\obj\Debug\WatchTry.pdb
